@@ -31,10 +31,10 @@ The padding will be added to the longest text + the two characters
 left and right.
 ```
 
-## requirements:
+## Requirements:
 
 python3
 
-## license:
+## License:
 
 MIT
